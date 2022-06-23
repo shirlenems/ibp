@@ -1,0 +1,12 @@
+{
+    "cursos": {
+        "cursoNR10": {
+            "logoCurso": "https://inbraep.com.br/assets/img/nr10.png",
+            "tituloCurso": "NR-10",
+            "subtituloCurso":"SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE ONLINE",
+            "precoCurso": 179.90,
+            "slugCurso": "nr-10"
+        }
+
+    }
+}
